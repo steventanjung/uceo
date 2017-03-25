@@ -3,7 +3,8 @@
 Omni : metered use, micro (5,6)
 Noun Project : freemium, license, subsciption, switchboard (3,4,6,7)
 Sling TV : bundled, subscription (1, 7)
-BrellaBox : 
+BrellaBox : installed base,metered use (4,6)
+Tealeaves :
 
 2
 //Target : collaboration, complementary (2,3)
@@ -17,25 +18,25 @@ Letgo :
 //Open humans : crowd, IT, knowledge (2,3,5)
 Xerox : IT, incentive, knowledge (2,3,4)
 Fast-Tracking : crowd, IT, knowledge (3,4,5)
-Foursquare : 
+Foursquare : crowd, decentralized, organizational (2,3,6)
 
 4
 //Zero carbon : lean,process(2,5)
 Instacart : 
 Nick Kokonas's : lean,on-demand,predictive,process(2,4,5,6)
-IKEA : 
+IKEA : flexible manufacturing, logistic system, process standardization.
 
 5
 //Kulkas Samsung : 
 Nascent : added,customization,engaging (1,2,4)
 AWS : added,ease,safety (1,2,5)
 German Company : customization, focus, safety (1,4,5)
-we food : 
+we food : conservation, environmental, focus (2,4,5)
 
 6
 //UberBlox : modular (4)
 Samsung's Family Hub Refrigerator : integrated,extensions(2,5)
-AirBnb : 
+AirBnb : integrated , product/service (3,5)
 
 7
 //Your Community App by US Bank: supplementary, user comm (5,7)
@@ -55,6 +56,7 @@ Membership NYC : context, flagship(1,3)
 Upgraded SF Buses :
 Under Armour : brand extension,value align(1,7)
 h&m : 
+Tealeaves' :
 
 
 10
@@ -62,3 +64,5 @@ h&m :
 Refresh App :
 This app... : 
 hospitality : autonomy,ex enabling,personalization (1,3,5)
+GuideBook :
+ 
