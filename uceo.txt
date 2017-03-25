@@ -11,9 +11,8 @@ Tealeaves :
 Samsung refrigerator : collaboration, complementary (2,3)
 Japan display : alliances,coopetition,supply(1,4,6)
 Financial Times Partners : collaboration, complementary (2,3)
-Letgo :
+Letgo : merger,secondary,supply (3,5,6)
  
-
 3
 //Open humans : crowd, IT, knowledge (2,3,5)
 Xerox : IT, incentive, knowledge (2,3,4)
@@ -62,7 +61,7 @@ Tealeaves' :
 10
 //Trick Art : experience enabling, whimsy (3, 7)
 Refresh App :
-This app... : 
+This app... :  
 hospitality : autonomy,ex enabling,personalization (1,3,5)
 GuideBook :
  
